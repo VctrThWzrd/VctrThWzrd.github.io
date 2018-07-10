@@ -1,0 +1,67 @@
+.title {
+  color: silver;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+
+
+#container{
+	background-color: black; 
+	color: #4CE0C6;
+	height:;
+	width: 100%;
+	margin:0px;
+	padding:0px;
+}
+
+
+.button {
+    background-color: Black;
+    border:1px solid #8FDADC ;
+    color: #8FDADC ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	width:250px;
+	float:;
+}
+
+	
+.button1:hover {
+    background-color:#8FDADC;
+	color: Black;}
+
+
+
+img{
+	float:left;
+}
+
+
+p{
+	font-size:20px;
+}
+
+div.fixed {
+    position: fixed;
+    width: 50%;
+    bottom: 5px;
+}
+
+a.fixed{
+   position: fixed;
+    width: 50%;
+    bottom: 5px;
+}
+
+
+
+
+
